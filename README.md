@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 
 
-![Vistrit's github stats](https://github-readme-stats.vercel.app/api?username=VistritPandey&count_private=true&show_icons=true&theme=dark)
+![Vistrit's github stats](https://github-readme-stats.vercel.app/api?username=VistritPandey&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VistritPandey)](https://github.com/anuraghazra/github-readme-stats)
 
