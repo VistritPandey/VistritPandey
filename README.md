@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 
 
-
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="vistrit-pandey-32b2551a2"><a class="LI-simple-link" href='https://www.linkedin.com/in/vistrit-pandey-32b2551a2?trk=profile-badge'>Vistrit Pandey</a></div>
 
 ![Vistrit's github stats](https://github-readme-stats.vercel.app/api?username=VistritPandey&count_private=false)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VistritPandey&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
