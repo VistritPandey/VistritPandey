@@ -3,8 +3,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working as IT Manager at Veecon India Pvt LTD
-- 🌱 I’m currently learning JS and React
+- 🔭 I’m currently working at something Interesting.
+- 🌱 I’m currently learning JS and React.
 - 👯 I’m looking to collaborate on App developement
 - 💬 Ask me about python and java
 - ⚡ Fun fact: I like playing shooter games.
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 
 
-![Vistrit's github stats](https://github-readme-stats.vercel.app/api?username=VistritPandey&count_private=false)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VistritPandey&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
+![Vistrit's github stats](https://github-readme-stats.vercel.app/api?username=VistritPandey&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VistritPandey&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/VistritPandey)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/VistritPandey/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/iamvistrit/)
