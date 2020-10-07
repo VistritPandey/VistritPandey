@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Vistrit
 #### I am a CS Major at Drexel University
-![I am a CS Major at Drexel University]
 
 Here are some ideas to get you started:
 
