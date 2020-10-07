@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about python and java
 - ⚡ Fun fact: I like playing shooter games.
 
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 ![Vistrit's github stats](https://github-readme-stats.vercel.app/api?username=VistritPandey&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VistritPandey&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
