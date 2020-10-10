@@ -1,7 +1,6 @@
 ### Hi there 👋, my name is Vistrit
 #### I am a CS Major at Drexel University
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working at something Interesting.
 - 🌱 I’m currently learning JS and React.
@@ -9,7 +8,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about python and java
 - ⚡ Fun fact: I like playing shooter games.
 
-Skills: HTML / Java / JavaScript / Python
+Skills: HTML / Java / JavaScript / Python / React JS
 
 
 
@@ -21,6 +20,6 @@ Skills: HTML / Java / JavaScript / Python
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VistritPandey&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=VistritPandey&show_icons=true&count_private=true&theme=dark)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=VistritPandey&show_icons=true&count_private=false&theme=dark)  
 
 ![Profile views](https://gpvc.arturio.dev/VistritPandey)  
