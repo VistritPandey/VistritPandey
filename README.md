@@ -3,9 +3,9 @@
 
 
 - 🔭 I’m currently working at something Interesting.
-- 🌱 I’m currently learning JS and React.
+- 🌱 I’m currently learning Flutter.
 - 👯 I’m looking to collaborate on App developement
-- 💬 Ask me about python and java
+- 💬 Ask me about React JS and JS
 - ⚡ Fun fact: I like playing shooter games.
 
 Skills: HTML / Java / JavaScript / Python / React JS
