@@ -24,4 +24,4 @@ Skills: HTML / Java / JavaScript / Python / React JS
 
 ![Profile views](https://gpvc.arturio.dev/VistritPandey)  
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/VistritPandey/Youtube-Clone)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VistritPandey&repo=youtube-clone)](https://github.com/VistritPandey/Youtube-Clone)
