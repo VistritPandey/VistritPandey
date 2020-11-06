@@ -16,7 +16,7 @@ Skills: HTML / Java / JavaScript / Python / React JS
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VistritPandey)](https://github.com/anuraghazra/github-readme-stats)
+[![Vistrit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VistritPandey)](https://github.com/VistritPandey)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=VistritPandey&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
