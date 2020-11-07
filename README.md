@@ -18,7 +18,7 @@ Skills: HTML / Java / JavaScript / Python / React JS
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=VistritPandey&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VistritPandey&hide=C++)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VistritPandey&hide=C%23)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VistritPandey&show_icons=true&count_private=true&theme=dark)  
 
