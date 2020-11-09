@@ -38,3 +38,7 @@ Skills: HTML / Java / JavaScript / Python / React JS
 <a href="https://github.com/VistritPandey/Zoom-Clone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VistritPandey&repo=zoom-clone" />
 </a>
+
+<a href="https://github.com/VistritPandey/Whatsapp-Clone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VistritPandey&repo=whatsapp-clone" />
+</a>
