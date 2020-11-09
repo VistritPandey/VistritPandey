@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working at something Interesting.
-- 🌱 I’m currently learning React Native.
+- 🌱 I’m currently learning Flutter.
 - 👯 I’m looking to collaborate on App developement
 - 💬 Ask me about React JS and JS
 - ⚡ Fun fact: I like playing shooter games.
@@ -16,11 +16,12 @@ Skills: HTML / Java / JavaScript / Python / React JS
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=VistritPandey&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VistritPandey&hide=C%23,CSS&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VistritPandey&show_icons=true&count_private=true&theme=onedark)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=VistritPandey&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ![Profile views](https://gpvc.arturio.dev/VistritPandey)  
 
