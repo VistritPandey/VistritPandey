@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working at something Interesting.
-- 🌱 I’m currently learning Flutter.
+- 🌱 I’m currently learning React Native.
 - 👯 I’m looking to collaborate on App developement
 - 💬 Ask me about React JS and JS
 - ⚡ Fun fact: I like playing shooter games.
