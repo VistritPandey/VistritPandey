@@ -11,6 +11,9 @@
 Skills: HTML / Java / JavaScript / Python / React JS
 
 
+https://github-profile-trophy.vercel.app/?username=VistritPandey&title=Commits,Stars
+
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=VistritPandey&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
