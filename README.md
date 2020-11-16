@@ -44,3 +44,6 @@ Skills: HTML / Java / JavaScript / Python / React JS
 <a href="https://github.com/VistritPandey/CHAT-APP-using-Redux">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VistritPandey&repo=chat-app-using-redux" />
 </a>
+<a href="https://github.com/VistritPandey/COVID-TRACKER">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VistritPandey&repo=covid-tracker" />
+</a>
