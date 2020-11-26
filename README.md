@@ -19,7 +19,7 @@ Skills: HTML / Java / JavaScript / Python / React JS
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VistritPandey&hide=C%23,CSS&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VistritPandey&hide=C%23,CSS&langs_count=8&layout=compact)](https://github.com/VistritPandey)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VistritPandey&count_private=true&show_icons=true&theme=onedark)  
 
