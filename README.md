@@ -27,8 +27,8 @@ Skills: HTML / Java / JavaScript / Python / React JS
 
 ![Profile views](https://gpvc.arturio.dev/VistritPandey)  
 
-<a href="https://github.com/VistritPandey/Youtube-Clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VistritPandey&repo=youtube-clone" />
+<a href="https://github.com/VistritPandey/Spotify-Clone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VistritPandey&repo=spotify-clone" />
 </a>
 <a href="https://github.com/VistritPandey/Netflix-Clone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VistritPandey&repo=netflix-clone" />
