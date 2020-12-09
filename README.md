@@ -11,7 +11,7 @@
 Skills: HTML / Java / JavaScript / Python / React JS
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=VistritPandey&theme=dracula)]
+![trophy](https://github-profile-trophy.vercel.app/?username=VistritPandey&theme=dracula)
 
 
 
