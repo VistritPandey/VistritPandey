@@ -34,8 +34,8 @@ Skills: HTML / Java / JavaScript / Python / React JS
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VistritPandey&repo=netflix-clone" />
 </a>
 
-<a href="https://github.com/VistritPandey/Airbnb-Clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VistritPandey&repo=airbnb-clone" />
+<a href="https://github.com/VistritPandey/Robinhood-Clone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VistritPandey&repo=robinhood-clone" />
 </a>
 <a href="https://github.com/VistritPandey/COVID-TRACKER">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VistritPandey&repo=covid-tracker" />
