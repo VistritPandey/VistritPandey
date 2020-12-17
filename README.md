@@ -3,22 +3,17 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vistritpandey&label=Profile%20views&color=0e75b6&style=flat" alt="vistritpandey" /> </p>
-
-
-- 🔭 I’m currently working at something Interesting.	<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vistritpandey" alt="vistritpandey" /></a> </p>
-- 🌱 I’m currently learning React Native.	
-- 👯 I’m looking to collaborate on App developement (React Native)	
-- 💬 Ask me about React JS and JS	
-- ⚡ Fun fact: I like playing shooter games.	
-
-
-Skills: HTML / Java / JavaScript / Python / React JS	<p align="left"> <a href="https://twitter.com/vistritpandey" target="blank"><img src="https://img.shields.io/twitter/follow/vistritpandey?logo=twitter&style=for-the-badge" alt="vistritpandey" /></a> </p>
+<p align="left"> <a href="https://twitter.com/vistritpandey" target="blank"><img src="https://img.shields.io/twitter/follow/vistritpandey?logo=twitter&style=for-the-badge" alt="vistritpandey" /></a> </p>
 
 
 - 🌱 I’m currently learning **React Native && Flutter**
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=VistritPandey&theme=dracula)	- 👯 I’m looking to collaborate on **React JS & Native**
+![trophy](https://github-profile-trophy.vercel.app/?username=VistritPandey&theme=dracula)	
+
+
+
+- 👯 I’m looking to collaborate on **React JS & Native**
 
 
 - 👨‍💻 All of my projects are available at [vistritpandey.me](vistritpandey.me)
