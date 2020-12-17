@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on **React JS & Native**
 
 
-- 👨‍💻 All of my projects are available at [vistritpandey.me](vistritpandey.me)
+- 👨‍💻 All of my projects are available at [http://vistritpandey.me/](vistritpandey.me)
 
 
 - 💬 Ask me about **React JS and Native**
