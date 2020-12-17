@@ -25,8 +25,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VistritPandey&count_private=true&show_icons=true&theme=dark)  
 
-[![Vistrit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VistritPandey)]
-
 ![Profile views](https://gpvc.arturio.dev/VistritPandey)  
 
 <a href="https://github.com/VistritPandey/Spotify-Clone">
