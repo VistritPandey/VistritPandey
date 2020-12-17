@@ -21,29 +21,31 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=VistritPandey&theme=onedark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VistritPandey&hide=C%23,CSS&langs_count=8&layout=compact)](https://github.com/VistritPandey)	
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VistritPandey&hide=C%23,CSS&langs_count=8&layout=compact&theme=dark)](https://github.com/VistritPandey)	
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VistritPandey&count_private=true&show_icons=true&theme=dark)  
+
+[![Vistrit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VistritPandey)]
 
 ![Profile views](https://gpvc.arturio.dev/VistritPandey)  
 
 <a href="https://github.com/VistritPandey/Spotify-Clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VistritPandey&repo=spotify-clone" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VistritPandey&repo=spotify-clone&theme=dark" />
 </a>
 <a href="https://github.com/VistritPandey/Netflix-Clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VistritPandey&repo=netflix-clone" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VistritPandey&repo=netflix-clone&theme=dark" />
 </a>
 
 <a href="https://github.com/VistritPandey/Robinhood-Clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VistritPandey&repo=robinhood-clone" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VistritPandey&repo=robinhood-clone&theme=dark" />
 </a>
 <a href="https://github.com/VistritPandey/COVID-TRACKER">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VistritPandey&repo=covid-tracker" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VistritPandey&repo=covid-tracker&theme=dark" />
 </a>
 
 <a href="https://github.com/VistritPandey/Chat-App-using-React-Native">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VistritPandey&repo=chat-app-using-react-native" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VistritPandey&repo=chat-app-using-react-native&theme=dark" />
 </a>
   <a href="https://github.com/VistritPandey/Social">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VistritPandey&repo=social" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VistritPandey&repo=social&theme=dark" />
 </a>
