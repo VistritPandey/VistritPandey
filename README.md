@@ -23,7 +23,7 @@ Skills: HTML / Java / JavaScript / Python / React JS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VistritPandey&count_private=true&show_icons=true&theme=onedark)  
 
-
+![](https://gitwar.herokuapp.com/badge?username=VistritPandey)
 
 ![Profile views](https://gpvc.arturio.dev/VistritPandey)  
 
