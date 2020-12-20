@@ -30,6 +30,13 @@
 
 ![Profile views](https://gpvc.arturio.dev/VistritPandey)  
 
+<a href="https://github.com/VistritPandey/Chat-App-using-React-Native">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VistritPandey&repo=chat-app-using-react-native&theme=dark" />
+</a>
+  <a href="https://github.com/VistritPandey/Social">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VistritPandey&repo=social&theme=dark" />
+</a>
+
 <a href="https://github.com/VistritPandey/Spotify-Clone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VistritPandey&repo=spotify-clone&theme=dark" />
 </a>
@@ -44,9 +51,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VistritPandey&repo=covid-tracker&theme=dark" />
 </a>
 
-<a href="https://github.com/VistritPandey/Chat-App-using-React-Native">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VistritPandey&repo=chat-app-using-react-native&theme=dark" />
+<a href="https://github.com/VistritPandey/Linkedin-Clone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VistritPandey&repo=linkedin-clone&theme=dark" />
 </a>
-  <a href="https://github.com/VistritPandey/Social">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VistritPandey&repo=social&theme=dark" />
+  <a href="https://github.com/VistritPandey/Tinder-Clone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VistritPandey&repo=tinder-clone&theme=dark" />
 </a>
