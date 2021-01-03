@@ -40,8 +40,8 @@
 <a href="https://github.com/VistritPandey/Spotify-Clone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VistritPandey&repo=spotify-clone&theme=dark" />
 </a>
-<a href="https://github.com/VistritPandey/Netflix-Clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VistritPandey&repo=netflix-clone&theme=dark" />
+<a href="https://github.com/VistritPandey/Linkedin-Clone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VistritPandey&repo=linkedin-clone&theme=dark" />
 </a>
 
 <a href="https://github.com/VistritPandey/Robinhood-Clone">
@@ -49,11 +49,4 @@
 </a>
 <a href="https://github.com/VistritPandey/COVID-TRACKER">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VistritPandey&repo=covid-tracker&theme=dark" />
-</a>
-
-<a href="https://github.com/VistritPandey/Linkedin-Clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VistritPandey&repo=linkedin-clone&theme=dark" />
-</a>
-  <a href="https://github.com/VistritPandey/Tinder-Clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VistritPandey&repo=tinder-clone&theme=dark" />
 </a>
