@@ -49,3 +49,10 @@
 <a href="https://github.com/VistritPandey/COVID-TRACKER">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VistritPandey&repo=covid-tracker&theme=dark" />
 </a>
+
+<a href="https://github.com/VistritPandey/Snapchat-Clone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VistritPandey&repo=snapchat-clone&theme=dark" />
+</a>
+<a href="https://github.com/VistritPandey/Gmail-Clone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VistritPandey&repo=gmail-clone&theme=dark" />
+</a>
