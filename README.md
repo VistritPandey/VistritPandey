@@ -46,8 +46,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VistritPandey&repo=linkedin-clone&theme=dark" />
 </a>
 
-<a href="https://github.com/VistritPandey/Drive-Clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VistritPandey&repo=drive-clone&theme=dark" />
+<a href="https://github.com/VistritPandey/Goolge-Drive">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VistritPandey&repo=google-drive&theme=dark" />
 </a>
 <a href="https://github.com/VistritPandey/COVID-TRACKER">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VistritPandey&repo=covid-tracker&theme=dark" />
