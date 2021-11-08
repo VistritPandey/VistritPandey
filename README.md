@@ -2,7 +2,7 @@
 <h3 align="center">Student @DrexelUniversity</h3>
 
 
-- 🌱 I’m currently learning **Flutter and Angular**
+- 🌱 I’m currently learning **Flutter**
 	
 
 - 👯 I’m looking to collaborate on **React JS & Native**
