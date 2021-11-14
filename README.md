@@ -5,10 +5,10 @@
 - 🌱 I’m currently learning **Flutter**
 	
 
-- 👯 I’m looking to collaborate on **React JS & Native**
+- 👯 I’m looking to collaborate on **App Developement**
 
 
-- 👨‍💻 All of my projects are available at [vistritpandey.me](http://vistritpandey.me/)
+- 👨‍💻 All of my projects are available at [vistritpandey.me](https://vistritpandey.live/)
 
 
 - 💬 Ask me about **React JS and Native**
