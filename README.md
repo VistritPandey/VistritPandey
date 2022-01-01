@@ -38,21 +38,6 @@
   <a href="https://github.com/VistritPandey/Social">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VistritPandey&repo=social&theme=dark" />
 </a>
-
-<a href="https://github.com/VistritPandey/Spotify-Clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VistritPandey&repo=spotify-clone&theme=dark" />
-</a>
-<a href="https://github.com/VistritPandey/Linkedin-Clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VistritPandey&repo=linkedin-clone&theme=dark" />
-</a>
-
-<a href="https://github.com/VistritPandey/Goolge-Drive">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VistritPandey&repo=google-drive&theme=dark" />
-</a>
-<a href="https://github.com/VistritPandey/COVID-TRACKER">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VistritPandey&repo=covid-tracker&theme=dark" />
-</a>
-
 <a href="https://github.com/VistritPandey/Snapchat-Clone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VistritPandey&repo=snapchat-clone&theme=dark" />
 </a>
