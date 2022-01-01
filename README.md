@@ -59,4 +59,4 @@
 <a href="https://github.com/VistritPandey/Gmail-Clone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VistritPandey&repo=gmail-clone&theme=dark" />
 </a>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VistritPandey&" alt="VistritPandey" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VistritPandey&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
