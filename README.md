@@ -32,17 +32,4 @@
 
 ![Profile views](https://gpvc.arturio.dev/VistritPandey)  
 
-<a href="https://github.com/VistritPandey/Chat-App-using-React-Native">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VistritPandey&repo=chat-app-using-react-native&theme=dark" />
-</a>
-  <a href="https://github.com/VistritPandey/Social">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VistritPandey&repo=social&theme=dark" />
-</a>
-<a href="https://github.com/VistritPandey/Snapchat-Clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VistritPandey&repo=snapchat-clone&theme=dark" />
-</a>
-<a href="https://github.com/VistritPandey/Gmail-Clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VistritPandey&repo=gmail-clone&theme=dark" />
-</a>
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VistritPandey&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/VistritPandey)
