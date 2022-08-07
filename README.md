@@ -28,7 +28,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VistritPandey&hide=C%23,CSS&langs_count=8&layout=compact&theme=dark)](https://github.com/VistritPandey)	
 
-
+<a href="http://www.github.com/vistritpandey"><img src="https://activity-graph.herokuapp.com/graph?username=vistritpandey&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 ![Profile views](https://gpvc.arturio.dev/VistritPandey)  
 
