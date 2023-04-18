@@ -2,7 +2,7 @@
 <h3 align="center">Student @DrexelUniversity</h3>
 
 
-- 🌱 I’m currently learning **Swift**
+- 🌱 I’m currently working on some cool **AI** and **MetaVerse** projects
 	
 
 - 👯 I’m looking to collaborate on **App Developement**
