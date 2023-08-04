@@ -22,6 +22,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VistritPandey&hide=C%23,CSS&langs_count=8&layout=compact&theme=dark)](https://github.com/VistritPandey)	 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=VistritPandey&border_color=47f0d7&show_icons=true&count_private=true&theme=gotham)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VistritPandey&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/VistritPandey)
