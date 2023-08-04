@@ -5,7 +5,7 @@
 - 🌱 I’m currently working on some cool **AI** and **MetaVerse** projects
 	
 
-- 👯 I’m looking to collaborate on **App Developement**
+- 👯 I’m looking to collaborate on **App Development**
 
 
 - 👨‍💻 All of my projects are available at [vistritpandey.live](https://vistritpandey.live/)
@@ -22,14 +22,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VistritPandey&hide=C%23,CSS&langs_count=8&layout=compact&theme=dark)](https://github.com/VistritPandey)	 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=VistritPandey&count_private=true&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=VistritPandey&border_color=47f0d7&show_icons=true&count_private=true&theme=gotham)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VistritPandey&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/VistritPandey)
-
-<p align="center">
-  <img src="https://readme-stats-cwvn.vercel.app/api?username=VistritPandey&custom_title=Vistrit+Pandey+&border_color=47f0d7&show_icons=true&count_private=true&theme=gotham">
-</p>
-
-<p align="center">
-  <img height="225" width="450" src="https://readme-stats-cwvn.vercel.app/api/top-langs/?username=VistritPandey&layout=compact&langs_count=9&hide=jupyter%20notebook&exclude_repo=FTP-Client-Server,Linked-Attributes-Implementation,DirectLinks-Update-Dirs&count-private=true&theme=gotham&border_color=47f0d7"/>
-</p>
