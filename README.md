@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vistrit Pandey</h1>
-<h3 align="center">Student @DrexelUniversity</h3>
+<h3 align="center">Software Engineer</h3>
 
 
 - 🌱 I’m currently working on some cool **AI** and **MetaVerse** projects
